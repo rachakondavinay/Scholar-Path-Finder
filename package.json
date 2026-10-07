@@ -1,0 +1,40 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "Repository for https://replit.com/@srithanvi100/Scholar-Path-Finder",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachakondavinay/Scholar-Path-Finder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachakondavinay/Scholar-Path-Finder/issues"
+  },
+  "homepage": "https://github.com/rachakondavinay/Scholar-Path-Finder#readme",
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@vercel/analytics": "^2.0.1",
+    "autoprefixer": "^10.6.1",
+    "eslint-config-next": "^16.4.0",
+    "next": "^16.4.0",
+    "postcss": "^8.5.29",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "tailwindcss": "^4.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "typescript": "^7.0.2"
+  }
+}
